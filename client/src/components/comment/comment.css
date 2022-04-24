@@ -1,0 +1,29 @@
+.comment{
+     padding-left: 20px;
+}
+.userComment{
+     padding-left: 10px;
+     font-weight: bold;
+
+
+}
+.commentBody{
+     position: relative;
+}
+.voteUpComment{
+     position: absolute;
+     right: 200px;
+
+
+}
+.voteDownComment{
+     position: absolute;
+     right: 50px;
+
+}
+.voteComment{
+     position: absolute;
+     right: 155px;
+
+}
+

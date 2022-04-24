@@ -1,0 +1,16 @@
+.bookmarks{
+     font-size:1.1rem;
+     display: block;
+     margin-left: 200px;
+     margin-right: 200px;
+     margin-top: 30px;
+     
+}
+.bookmarksTitle{
+     cursor: pointer;
+     color: #000
+}
+.bookmarksTitle:hover{
+     color: #5488c7;
+     text-decoration: none;
+}

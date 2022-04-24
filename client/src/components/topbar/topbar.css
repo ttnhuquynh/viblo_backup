@@ -1,0 +1,63 @@
+.badge{
+  margin-left: 20px;
+  margin-right: 10px;
+
+}
+.banner{
+  width:100%
+}
+
+.myBookmark{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.bannerIcon{
+  width:62px;
+  height: 21px;
+}
+.header{
+  width: 80%;
+  margin-left:10%;
+  box-shadow: 5px 10px 18px #dad7d7;
+  overflow: hidden;
+
+}
+.banner-list{
+  height: 60px;
+  background-color: #0b1a33;
+  overflow: hidden;
+
+}
+.banner-item1{
+  margin-left: 10%;
+}
+
+.banner-item{
+  COLOR: #fff;
+  line-height:60px;
+  float: left;
+  list-style-type: none;
+  overflow: hidden;
+  padding: 0 20px;
+  cursor: pointer;
+
+}
+.banner-item:hover{
+  background-color: #3e5886
+}
+.topbarContainer{
+  overflow: hidden;
+}
+.btn-posts{
+  background-color: #5488c7;
+  color: #fff;
+}
+.banner-item-last{
+  margin-left:150px;
+  line-height:60px;
+  float: left;
+  list-style-type: none;
+  overflow: hidden;
+  padding: 0 20px;
+  cursor: pointer;
+}
